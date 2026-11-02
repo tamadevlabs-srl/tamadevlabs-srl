@@ -46,13 +46,35 @@ We're an **AI-first engineering studio** helping startups design, build, and sca
 
 <br />
 
-```text
-  TamadevLabs
-  -------------------------------------------------
-  > Speed without shortcuts     MVP in weeks
-  > Technical depth             Senior AI + full stack
-  > Transparent partnership     Weekly demos, no black box
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=700&height=40&lines=Speed+without+shortcuts;Technical+depth;Transparent+partnership" alt="What we believe" />
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/01-Speed-FF8C00?style=for-the-badge&labelColor=061425" alt="Speed" />
+      <br /><br />
+      <b>Speed without shortcuts</b>
+      <br />
+      <sub>MVPs in weeks with production-grade code — not throwaway prototypes.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/02-Depth-7EB8D4?style=for-the-badge&labelColor=061425" alt="Depth" />
+      <br /><br />
+      <b>Technical depth</b>
+      <br />
+      <sub>Senior engineers across AI, full stack, and cloud who own outcomes end to end.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/03-Trust-E8EEF4?style=for-the-badge&labelColor=061425" alt="Trust" />
+      <br /><br />
+      <b>Transparent partnership</b>
+      <br />
+      <sub>Weekly demos, clear communication, and no black-box delivery.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -69,57 +91,20 @@ We're an **AI-first engineering studio** helping startups design, build, and sca
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,postgres,supabase,docker,aws,vercel,graphql,redis,mongodb,tailwind,github&theme=dark&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,python,fastapi,django,express,nestjs,postgres,mysql,mongodb,redis,supabase,prisma,graphql,apollo,docker,kubernetes,aws,gcp,azure,vercel,cloudflare,nginx,linux,bash,git,github,tailwind,sass,jest,playwright,threejs,electron,kafka,rabbitmq,elasticsearch,terraform,figma,shopify&theme=dark&perline=10" alt="Tech stack" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-
-</div>
-
----
-
-## Live pulse
-
-<div align="center">
-
-<!-- Official github-readme-stats.vercel.app is paused (503). Use working mirror. -->
-<img src="https://github-readme-stats2.vercel.app/api?username=tamadevlabs-srl&show_icons=true&hide_border=true&bg_color=061425&title_color=FF8C00&icon_color=7EB8D4&text_color=E8EEF4&cache_seconds=1800" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats2.vercel.app/api/top-langs/?username=tamadevlabs-srl&layout=compact&hide_border=true&bg_color=061425&title_color=FF8C00&text_color=E8EEF4&cache_seconds=1800" height="165" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=tamadevlabs-srl&theme=dark&hide_border=true&background=061425&ring=FF8C00&fire=FF8C00&currStreakLabel=7EB8D4" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamadevlabs-srl&theme=radical" width="100%" alt="Profile details" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamadevlabs-srl&theme=radical" width="48%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamadevlabs-srl&theme=radical" width="48%" alt="Most commit language" />
-
-</div>
-
----
-
-## Contribution snake
-
-<div align="center">
-
-<a href="https://github.com/tamadevlabs-srl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1200&color=FF8C00&center=true&vCenter=true&width=560&height=40&lines=Commit.+Push.+Ship.+Repeat.;Building+in+public+-+follow+along." alt="Commit. Push. Ship. Repeat." />
-</a>
-
-<br />
-
-<sub>Optional: add the <a href="https://github.com/Platane/snk">Platane/snk</a> Action to this profile repo for a live contribution snake GIF.</sub>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
 
 </div>
 
